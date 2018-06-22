@@ -3,3 +3,5 @@
 require './lib/movies'
 
 Movies::CLI.new.call
+
+#test
